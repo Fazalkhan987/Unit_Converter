@@ -1,1 +1,5 @@
-
+![Alt text](lib/assets/home.png)
+![Alt text](lib/assets/time.png)
+![Alt text](lib/assets/date.png)
+![Alt text](lib/assets/length.png)
+![Alt text](lib/assets/volumn.png)
